@@ -1,0 +1,7 @@
+I think instead of pit_x_value as corrdinates, I suggest to have two data variables, one is pit_x_value and pit_y_value which is cdf of pit_x_value.
+Can you put x label and y label in the plot. Hydrologist generally plots PIT values on y axis and stanadard uniform variate on x axis, so for no calibrated scenarios, they are opposite to the plot shown here, so it is important to label x and y axis
+
+
+I assumed fcst_at_obs_left is not required for ens
+
+alpha score : 1 -2 alpha
