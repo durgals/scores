@@ -9,6 +9,8 @@ htmldocs
 # Turorial data
 tutorials/*.nc                   
 tutorials/auspopn.zip 
+tutorials_pit_test
+verf_score_test
 
 # Standard .gitignore from https://github.com/github/gitignore/blob/main/Python.gitignore
 
